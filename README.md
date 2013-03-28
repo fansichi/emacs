@@ -1,6 +1,6 @@
 emacs
 =====
-This is the profile of my emacs!
+There are the profile of my emacs!
 Maybe It's will be useful for you!
 
 .emacs    the setting of my emacs!
